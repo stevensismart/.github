@@ -23,7 +23,7 @@ Our mission is to:
 
 ## 🏗️ Projects
 
-### 🇺🇸 US Grants (Selected)
+### :us: US Grants (Selected)
 - **PI**: *Assessing the integration of river ice information in the National Water Model to enhance river flow routing in northern watersheds* — NOAA COMET Program (2021–2022).
 - **Co-I**: *Operational river ice monitoring and forecasting over the US and the globe using SNPP and NOAA-20 VIIRS imagery* — NOAA JPSS Proving Ground and Risk Reduction (2018–2021).
 - **Co-I**: *An enhanced operational system for the mapping of river ice using SNPP VIIRS for river ice-jam modeling* — NOAA JPSS Proving Ground and Risk Reduction (2016–2018).
