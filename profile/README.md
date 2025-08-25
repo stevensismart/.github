@@ -105,10 +105,6 @@ Department of Civil, Environmental, and Ocean Engineering (CEOE)
 
 ---
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-I--SMART%20Lab-blue?logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-I--SMART%20Lab-blue?logo=twitter"></a>
-</p>
 
 <p align="center">
   © 2025 I-SMART Lab · <a href="https://www.stevens.edu/">Stevens Institute of Technology</a>
