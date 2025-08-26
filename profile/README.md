@@ -99,7 +99,7 @@ Department of Civil, Environmental, and Ocean Engineering (CEOE)
 **Stevens Institute of Technology**  
 1 Castle Point Terrace, Hoboken, NJ 07030, USA  
 
-- 📧 **Email (PI)**: [mtemimi@stevens.edu](mailto:mtemimi@stevens.edu)  
+- 📧 **Email**: [mtemimi@stevens.edu](mailto:mtemimi@stevens.edu)  
 - 📞 **Phone**: +1 (201) 216-5303  
 - 🌐 **Website**: [I-SMART Lab Website](https://web.stevens.edu/ismart/index.html)  
 
