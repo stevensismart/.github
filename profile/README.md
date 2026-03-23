@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://web.stevens.edu/ismart/images/logo.png" width="120" alt="I-SMART logo"/>
+  <img src="ismart_white_bg.png" width="120" alt="I-SMART logo"/>
 </p>
 
 <h1 align="center">🌎 I-SMART Lab</h1>
